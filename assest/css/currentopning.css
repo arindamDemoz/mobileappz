@@ -1,0 +1,30 @@
+ body {font-family: Roboto,"Helvetica Neue",sans-serif;}
+
+
+ h1 {
+    font-size: 2.5em;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+
+h6 { font-size: 1.2em;
+    font-weight: 500;
+    margin: 1em 0;
+    text-transform: uppercase;}
+
+ul li {font-size: 1em;
+    line-height: 1.6em;}
+
+    h3 {    border-left: 4px solid #F1602C;
+    padding-left: 10px;}
+
+    .m-top-50 {margin-top: 50px;}
+
+    .navbar-default .navbar-nav > li > a, .navbar-form a {
+    font-weight: normal;
+    outline: medium none;
+    text-transform: uppercase;
+}
+
+
+
